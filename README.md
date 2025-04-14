@@ -3,6 +3,8 @@
 
 ATSResumeExpert is a smart, privacy-focused resume evaluation tool that leverages **Google's Gemini AI** to simulate **Applicant Tracking System (ATS)** analysis. Built using **Streamlit**, it helps candidates align their resumes with job descriptions, optimize keyword usage, and receive personalized feedback to increase their chances of landing interviews.
 
+
+
 ![ATSResumeExpert Banner](https://github.com/user-attachments/assets/d240c37d-0153-4ea9-b5e8-05c6a2c14021)
 
 
@@ -16,7 +18,11 @@ ATSResumeExpert is a smart, privacy-focused resume evaluation tool that leverage
 - 🔒 **Privacy First:** Resume data processed securely, with no storage of personal information
 
 
+![Features](https://github.com/user-attachments/assets/5b103c37-e3e1-4f9a-8a30-70636deec5b5)
+
+
 ### 🛠️ Tech Stack
+
 
 - **Frontend:** Streamlit + LottieFiles  
 - **AI Backend:** Google Gemini API (`gemini-1.5-flash`)  
