@@ -1,22 +1,20 @@
-
-
-##  ATSResumeExpert  
+## 🚀 ATSResumeExpert  
 **An AI-Powered Resume Analysis & Optimization Tool for Job Seekers**
 
 ATSResumeExpert is a smart, privacy-focused resume evaluation tool that leverages **Google's Gemini AI** to simulate **Applicant Tracking System (ATS)** analysis. Built using **Streamlit**, it helps candidates align their resumes with job descriptions, optimize keyword usage, and receive personalized feedback to increase their chances of landing interviews.
 
 
-###  Key Features
+### 🧠 Key Features
 
--  **Resume Evaluation:** Get intelligent, role-specific feedback based on the job description  
--  **Skillset Suggestions:** Identify missing or in-demand skills based on the job profile  
--  **Keyword Optimization:** Discover ATS-relevant keywords missing from your resume  
--  **Match Percentage Calculation:** See how closely your resume matches the target role  
--  **Modern UI & Lottie Animations:** Responsive and visually appealing interface  
--  **Privacy First:** Resume data processed securely, with no storage of personal information
+- 📄 **Resume Evaluation:** Get intelligent, role-specific feedback based on the job description  
+- 💡 **Skillset Suggestions:** Identify missing or in-demand skills based on the job profile  
+- 🔑 **Keyword Optimization:** Discover ATS-relevant keywords missing from your resume  
+- 📊 **Match Percentage Calculation:** See how closely your resume matches the target role  
+- 🎨 **Modern UI & Lottie Animations:** Responsive and visually appealing interface  
+- 🔒 **Privacy First:** Resume data processed securely, with no storage of personal information
 
 
-###  Tech Stack
+### 🛠️ Tech Stack
 
 - **Frontend:** Streamlit + LottieFiles  
 - **AI Backend:** Google Gemini API (`gemini-1.5-flash`)  
@@ -25,7 +23,7 @@ ATSResumeExpert is a smart, privacy-focused resume evaluation tool that leverage
 - **Styling:** Custom CSS for enhanced UX  
 
 
-###  Getting Started
+### 📦 Getting Started
 
 1. **Clone the Repository**
 ```bash
@@ -50,8 +48,9 @@ streamlit run app.py
 ```
 
 
-###  Folder Structure
+### 📂 Folder Structure
 
+```
 ATSResumeExpert/
 ├── app.py                # Main Streamlit app
 ├── requirements.txt      # Python dependencies
@@ -60,17 +59,17 @@ ATSResumeExpert/
 ```
 
 
-###  Contribution Guidelines
+### 📢 Contribution Guidelines
 
 We welcome contributions from the community! Whether it's bug fixes, feature enhancements, or documentation improvements—feel free to submit a pull request or open an issue.
 
 
-###  License
+### 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
 
-###  Acknowledgments
+### 🙌 Acknowledgments
 
 - [Google Gemini API](https://ai.google.dev/)
 - [Streamlit](https://streamlit.io/)
